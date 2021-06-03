@@ -1,0 +1,134 @@
+
+#EXTM3U
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="NEWS", ABC News
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2014/12/ABC-News-24.png" group-title="NEWS", ABC24 (Australia)
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vox-cdn.com/thumbor/O-L_Eg9BC9BJk_bi6fpoxeSe9ZU=/1x0:676x450/1200x800/filters:focal(1x0:676x450)/cdn.vox-cdn.com/uploads/chorus_image/image/48556615/2013722231056618734_20.0.jpg" group-title="NEWS", Al Jazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+ 
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yellowyoyo.co.uk/wp-content/uploads/2014/05/arise-772x392.jpg" group-title="NEWS",Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist_w1835250345.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/BBC-News-1.png" group-title="NEWS", BBC News
+http://185.53.163.214:5678/ipvt_010
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/BBC-News-1.png" group-title="NEWS", BBC World News
+https://1636691764.rsc.cdn77.org/1tGqRK_J2nKv-Ps7YywQSg==,1605238971/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREL2JKLRd2yQOwlXADy8staz9bgpQ3l199iw4IczNP3BjAdJ9m" group-title="NEWS", Bloomberg
+https://d1g4mbj10o50ni.cloudfront.net/btv/desktop/us_live.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fpri.org/wp-content/uploads/2016/12/CSPAN-logo.gif" group-title="NEWS",C-Span 1
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fpri.org/wp-content/uploads/2016/12/CSPAN-logo.gif" group-title="NEWS",C-Span 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fpri.org/wp-content/uploads/2016/12/CSPAN-logo.gif" group-title="NEWS",C-Span 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/mediacentre/content/images/620x296-CBC_News_Network.jpg" group-title="NEWS",CBC News
+http://beastiptv.tv:25461/Socal858/monkey123/2740
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://menckenism.files.wordpress.com/2013/01/cbn-news-logo.jpg" group-title="NEWS",CBN 24Hr News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_900_av-b.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/a6/a62d919cd9a6dbfaf18a9d0482ceb04c.png" group-title="NEWS",CBS News
+http://beastiptv.tv:25461/Socal858/monkey123/7876
+ 
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/02/CNN_News_Live-e1493069416432-3-1-1-1-300x157.png" group-title="NEWS",CNN Int.
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/02/CNN_News_Live-e1493069416432-3-1-1-1-300x157.png" group-title="NEWS",CNN US
+http://beastiptv.tv:25461/Socal858/monkey123/1279
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Free Speech TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="NEWS",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/09/FNC2-1-2-1-1.jpg" group-title="NEWS", FOX NEWS
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Fox Business News" tvg-logo="http://usnewslive.tv/wp-content/uploads/2018/08/fox-business-network-326x245.jpg" group-title="NEWS", FOX BUSINESS NEWS (May Be Unreliable)
+http://beastiptv.tv:25461/Socal858/monkey123/1379
+ 
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://am11.akamaized.net/med/cnt/uploads/2015/07/gai-msnbc-logo-300x300.gif" group-title="NEWS", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_796_av-p.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="http://i68.tinypic.com/2uivn9d.jpg" group-title="NEWS",NHK WORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="SKYNEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/Sky_News_2007.png/revision/latest?cb=20100419120542" group-title="NEWS",SkyNews
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="UN Web TV" tvg-logo="https://dezayasalfred.files.wordpress.com/2015/11/un-web-tv.gif" group-title="NEWS",UN Web TV (USA)
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/2w3opah.jpg" group-title="WEATHER",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/28t9y54.jpg" group-title="WEATHER",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/7979751/a.m3u
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi67.tinypic.com/20110o.jpg" group-title="NEWS", News12 Bronx News
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/vy8mjk.jpg" group-title="NEWS",News12 Long Island News
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/ixcghl.jpg" group-title="NEWS",News12 Connecticut News
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi65.tinypic.com/ixcghl.jpg" group-title="NEWS",News12 New Jersey News
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi67.tinypic.com/10mlo2h.jpg" group-title="NEWS",News12 Brooklyn News
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi64.tinypic.com/xlhvl5.jpg" group-title="NEWS",News12 Hudson Valley News
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oi68.tinypic.com/34rt9pi.jpg" group-title="NEWS",News12 Westchester News
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/443420605119877120/vbTWeLmj_400x400.jpeg" group-title="Traffic", News12 Bronx Traffic
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?cdnHost=167.206.237.144&callsign=N12TW_NYC
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/443420605119877120/vbTWeLmj_400x400.jpeg" group-title="Traffic",News12 Long Island Traffic
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/443420605119877120/vbTWeLmj_400x400.jpeg" group-title="Traffic",News12 Connecticut Traffic
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/443420605119877120/vbTWeLmj_400x400.jpeg" group-title="Traffic",News12 New Jersey Traffic
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/443420605119877120/vbTWeLmj_400x400.jpeg" group-title="Traffic",News12 Brooklyn Traffic
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?cdnHost=167.206.237.150&callsign=N12TW_NYC
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/443420605119877120/vbTWeLmj_400x400.jpeg" group-title="Traffic",News12 Hudson Valley Traffic
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?cdnHost=167.206.237.150&callsign=N12TW_NYC
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/443420605119877120/vbTWeLmj_400x400.jpeg" group-title="Traffic",News12 West Chester Traffic
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?cdnHost=167.206.237.144&callsign=N12TW_WC
